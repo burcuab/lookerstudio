@@ -7,7 +7,7 @@ Prepare data as below in BQ
 - funnel_order
 - sessions
 
-See sample query here:
+[See sample query using on public GA4 dataset](item_category_funnel_data.sql) 
 
 Go to Looker Studio and add the item category funnel table as data source.
 - Use the new native funnel chart
